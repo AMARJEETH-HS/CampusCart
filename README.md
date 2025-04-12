@@ -27,8 +27,3 @@ A full-stack web application that enables students to **buy, sell, or rent items
 **Authentication:** Firebase Auth  
 **Hosting:** Vercel (Frontend), Render/Railway (Backend)
 
----
-
-## 📸 Screenshots
-
-<!-- Add images here -->
